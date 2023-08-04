@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rostyslav2022
-- 👀 I’m interested in QAQ
+- 👀 I’m interested in AQA
 - 🌱 I’m currently learning C# and Python
 - 💞️ I’m looking to collaborate on IT sfere
 - 📫 How to reach me - rostyslavrakhuba@gmail.com
